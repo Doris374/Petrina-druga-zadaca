@@ -1,0 +1,10 @@
+#mačka    {
+    color: blue;
+      }
+.mali     {
+    color: purple;
+}
+.mica:hover  {
+    border: 5px black dotted;
+    padding: 2px;
+}
